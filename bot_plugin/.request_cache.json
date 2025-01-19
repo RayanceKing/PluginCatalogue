@@ -1,0 +1,45 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"545c49e36ae63be13d7e14780ec94c7357dfcd541b84c291645d62e0216ab711\"",
+      "data": "H4sIAL8kbGcC/+2XbW/aMBDHvwrK64FDaMKDNFWbmPZmtNv6oLVVFTmJm3h14sh2QCXiu+9sh9DSrduAl7xCudz97nJn/23uaqcSzJl0nEypUk4QwiXtpVRlVdSLeY4EKblEU1zEtEgvCr5w/f4QfeQqnOECp0SAByNYEon8IBiOvdGJ867jYCmJkuHB2ciCdYqqZBwn2ymsVR4mTX1a4Jy8YzgibKVzZipn2xmfZfqnHAqnqN9ze64G0gRQ66y6b5XKuABb7TCe0kIn2qK2YYE7HAR9P4DngickNEZnNv0WXP84Y/HPm8XZcubNLq88M5E5Vli8moixrttVSSJiXihSKPM9FVrnOJ2/N3NNRcOxycwc3pyxRr5q/v+3Ukc8cMb4AnDhDilRG71Bwes9UGCpEVcZgaaCm1kfKZVqt/JMZG1+oLcGJqHPgiQ74ZpYKHBRQG212QSWWkUyFrRUlBe7lfqCoJFcpLigS7w7EgiGZLbqTgQTqRFkDqt3N4YNrVEp6BzHTytbUUzoHKawB3eLobHqqSSacwUBZhPBbzinZBGu35RVxGhsJkYVCXGSGzV4wEyS1cst//1T+LiYnn8uL7qP8mR6c6aMtoDQhFq/tEsrOLAuUqJCKDanispMv8yxVLaMtTsIVye3wtW5bmMTgR/UugZ4LgVpVO2ZMRYEK/hWrD0dz/W8rtvvuuNL92Tijidu/1ajzNfJ7A9+g9HEt36N3E86dwc8qCwU+QPf88eut9HhxrDV3Q8vujv74p1vteorq0Cqu3PTqF4eJ6aX5tQAj6JirD2uyFHbj9p+1Pajtr+p7c0+bf1xWYK/mQHisSKqKxXIbN6sJGWcGoFJLHapbf1h4A+1cMNKMZflmFeF1tvRYPgXqQYJdoNbe89O3vQaGa9I8IX+zjbVnrfkNcdeldHvVXZ1b0+0CDO293+NhrO5my9peRBww9mAI548GYVd3f8C6GvTb4ANAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGMx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "53525902": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot_plugin",
+        "name": "Bot Plugin",
+        "version": "1.0.0",
+        "link": "https://github.com/",
+        "authors": [
+          "DancingSnow"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.3.0",
+          "minecraft_data_api": ">=1.4.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "管理 carpet 机器人"
+        }
+      },
+      "size": 17657,
+      "hash_md5": "9c524f2166cb909794a1601e5dc8d4c0",
+      "hash_sha256": "605ef8d46a89b23b4c40292bf752d9be7c1d1f5eda3521514c9f4d61476d40f8",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"97342cd1e6c809c578dc82084a621a0a50794208c363bd49da3507f614fdf926\"",
+    "data": "H4sIALKdEWcC/62YbW/bNhCA/4rhr6st2Y4dxEDRYQiQL02Wrcm2phgESqIlxhSpkZRdR/B/3/FFb17QZJa+JNaR9/B0Oh7vWI5JPF6PLi6WV8vl5cL/MBozHuPASMe/B9vk+teb/Mtkm4z1EMqwlv/CVXCLGEqw0OJNQWlQjV0jFhGWfGF87y9nl97J3FyQHVJ65gZRiUHC9wyG1qNyTHlC2CsMrWcMWvmXi9VsuepaeXv92+qPv+5o9Px1f/dyO799eJxrFQQLIREUgupZqVK5XHuelcppQlRahIXEIuJMYaamEc+8wqvW+LT7eKEpiXAcu5gWnRJz4mgWAUjpvfIKqcroqTUtvVc0NpxSvgdccMaSXq3doGC4BwokpcdVisGpMO1o3EOkOs88o1maf+BbA5PgZ4Hjs3BOFwzU8XQsPYFzbqlFKCNBckU4O8/UDkEjuUgQIy/ofCQQDElbeR7BaGoE3kH0nsewqqVndmV0OFqLIkx28BV6cE8YGqsOuckPj9ImAq0Y7AjeB9VIXoSUROaLEYUDFGcmG5g8cfzf++c08cS4/oQAYJCyzK4Q21Yq+vGrGoe/tYwmvuWzN0GeoWjcFh/60zSk1H+rfRbBdkYhF0hx0R/foZWdR7Oawijrv4qhmDTK+QAeNhRzsEhZ4PfF+ttUA5P1tmJFFro8OdACzX5CUpKEYdyfWZNKr07roQCFdAB4BSrdLxsRKBkgIJDNoCHlYX8aTPYMqfRkitzRpoJBLNVsDeqiBd4Mg9agBq3EEDFhTBYmJiowHLAK4qM/uwJ5ZYWmiCUFjPVn16SqnEjQCxaD2OxQNn8yJUhYDJQ+G1irXAkHMbthnVZCQ7HtiWqckmVEDeEPw+lulqHgOq7/s4AWDJKdK1An89sDxg0NdcK8upJrZIYJSQ3yyp9ypNLKSTkSeAgfaY5XhgjKuul0WqYY2bIkw2KIHGAx5owUUQplaG9iWYGgLsuQMs3FxpgcQ7dBOYr7W12T6pgZqhzpxEgOhW9/sKF0uBmhWCrOhvh+NaqzAuOKbEj0rp7r7UU6tPKTJCzCHxA0BRCcikQE4h5U3ekUYjrE0aQx8Eoow67RohgNcaBWoNJz9X2Mc8oPw+S0FsukAYGRgsYOKU2d+/P5xJ9N/KsH31/78/Xs6sk0d3ncnbWAKZM5zFqs/dXaXzzZWJTpyaTlZDF7mM3XF1fr+eVTlf3dO8DPd7d8+iXNkSfTlvrPjfL6HcoRhSg8r+Ws19+x83vWlGc4h4emYZXkRT8t/W55E/GCaS/OQbxHCgruE2FVF2k77g8qtUd2imRgcwTIlSiwk+WCP+NInUibDNUR78mWnKibAqxpq40ykVEBjYa+QGlGbLdcGTozeUQIXl3auZd22TduKQIOhbQj4jlm7m1qonYTJRFmEpsbRuiBTSTkdLKY+u0rzZu7x9ENZlggOro3FxGjz1ZxtHNTZR5/d7eAN/efK8CP95dbXHrtJdtXl9Hq4YY+P/25fHl62H4c63sOpO/a9FGzhdBoPEtkoHCW0+7t6R6HrjgKdBfHNxtoLP4piOj4RvGcRNrx3/6Gpx2RJCSUqEP32sXeOtjv0PKm82MVVy6iYrxBBVWBbes0KENSuUteLDJSf+xy3LnK0R8ZEaZQR6RzQdtgQWy0NuOUOl8czZ1Clgd2eyq+xay6mmVY7eEtOiHVLqhr+fFfhihZwvoWAAA="
+  }
+}

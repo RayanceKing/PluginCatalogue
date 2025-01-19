@@ -1,0 +1,189 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"d2b41c778f9ee5a4b3bf5db7d56c7708bb5ff76d15d7a34d50adc3c44622be9c\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPz/SmcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "210041952": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 202960,
+      "hash_md5": "c54a63381cf53a5a43f128ff6ae8e2fe",
+      "hash_sha256": "0eef4931e2b92ec5e7d47e7c436b118ac58542223fdb0b8138ba4194013636c5",
+      "ttl": 100
+    },
+    "211758228": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.2.0",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 215005,
+      "hash_md5": "c7c473ffe463923d517502e2dd610cbd",
+      "hash_sha256": "64482e2d405c42cf5837f61a1316ddd7990794e9e097f7a0d9b4601c2f866e56",
+      "ttl": 100
+    },
+    "212372353": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.2.1",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 214852,
+      "hash_md5": "7da76aac13297824a0b62dce864e048f",
+      "hash_sha256": "989a84f602dc8b1ab226652b3cbdcfd0dc532f453c402214e9744c1dc3929971",
+      "ttl": 100
+    },
+    "212640571": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.2.2",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 204147,
+      "hash_md5": "22f21bdcfe41eb339df730bd75c408d2",
+      "hash_sha256": "470b79db9a34e3e0d7cca39ec653990847dbcb601cd5e85ccce0db805413b463",
+      "ttl": 100
+    },
+    "215115372": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.2.3",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 203616,
+      "hash_md5": "138ace52f4fa828a998da16e3215fdf6",
+      "hash_sha256": "9743f320e3c08ef3930cff9ae04666725614c45478b04d1bc16b5985b9050a7c",
+      "ttl": 100
+    },
+    "218313693": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.3.0",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 204893,
+      "hash_md5": "956ef3ef3ab27d2261578892ca74c945",
+      "hash_sha256": "4c2129bf943034f54158f8a99a56db6da690560450b87384f103c50561bc0ad5",
+      "ttl": 100
+    },
+    "218314279": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mg_events",
+        "name": "MoreGameEvents",
+        "version": "0.3.1",
+        "link": "https://github.com/Mooling0602/MoreGameEvents-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Add more game events to MCDR.",
+          "zh_cn": "向MCDR添加更多的游戏事件！"
+        }
+      },
+      "size": 204900,
+      "hash_md5": "f8cfbd44bcdb7768645b27d1f8b1f9ac",
+      "hash_sha256": "ee8d75f0e76d8eed6338af6e1d0ebda7bea8ec3edfde8f290e525251b7bfdcde",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"f6837eb4fcfb6605354b786523d9d7de1747349d514ec9f4f3d8a91df8f369e9\"",
+    "data": "H4sIADUdiWcC/62YbW/bNhCA/4rhr0ss23Hs1EDRdc2WfWjSoEgwIEMhUBItMaZIjaTsOYL/+44venPXzM74JbFI3sPT6e54x2pIkuFycHW1mC8W0/HsbDBkPMGhGR1+Ddfp9Ze7L8/Zbx+HegrlWI/fcoFv4PevG8yUPL/9dP1VT69KSsN2DaeEpeP5eBr8YH0hyAYpvXqFqMQwwrcMC3iuhpSnhB1wtIxRbDJbvJvPpvOrvrqPRt1Pd7//Ehl1EdCRCEtB9WymVCGXQWBH5SglKiujUmIRc6ZAsVHM86AMGviHzfuZxqTCgewueugQWRCHswxgyuBA8Uzl9FCVjszB6hWnlG8BE564VdBIthiYeiMGnqqAqwyDFWHJ3piDSHW6WkaqMv/AjgYkwaYCJyejnBwopr1lXwUCF9wSy0jGghSKcHa6ij1pjeMiRYy8oLfhQNpQtHanSxspLY5NzJwsb8WqwMRYvNtbTWJMNmDxNzIP5DVS7QoT7Y+w2AQG/A83BG/DeqYoI0pi83WIwiFKchPXJuL3J8XFj9JIgpvPpiEfk2SQw8pBCksHVtWB4gO9fGSDQqw7Oed1K5jvcIwWmvpfJj0KFhiSRq7xzg9Rgyr9tw69GKIbRVwgxYWfLXrEqvdodlQY5X52MiSTUTn3ZHFDMqeLlCU+LjyOIxugbKKRlXnk0qjHTdpwRFKSlGHsh9vQqqDJ/pFALM48bVDDKvfLegpKPTkKsgk4ojzyQwSBwNCqQGbInYYq9Kax5mtYHy/wyh9ew1q8Er58xagujK/UcDinFfiNH34NC6oaTxFLS5R64je0ujJJ0QsW3nR3OJt7mRIkKj2m3hbYqYIib+q3vMMiyyffHuDGQHlOlC/bGFY/oHxuoP3+u030gLfsXsN6p4c9qNyUz5PqX3dzDZI/d9VPQfVTgVRWG6xAAvuyl2YFVYSgwhyNRlWGkS17cix85QuLMmeuiDOoir1QqxoGNWCOlOltVkb1BJodylHiR/uG1viSz3Kn5ztFSakfuCH12DmhWCrOfH3TBtfbhXFFViQ+qg08bqMesfogCYvxGaL0DBxXkZhAXIC4O+UiTH0dcRoFrwbjrh+kGPk6oGtYFbgeI8EF5Tt/ebDDMylDYKSgF0VKk6fj6ex8MjmfXDyMZ8vLd8vZ5ZPpR4ukv+ryfAyr5g+T2fJisZwsnqyPyuyVRfOn+uRw7wE/T+pS9cuao1NmHcTPLWB5JCCm4J1v75YbPTbs/7XcGc9xAdVSfR8myYv+PZ1f9qunmJdMG3UMw1ukoNY/GKzLLg2636nMVgAZkqFNJTCuRIndWCH4M47VwWibzHrDW7ImB+Kmvms7fyNMZFxCn6OvfNoZ28x3Fc2JELy+S2SQidrMn3QEAYci2hviBWbubRriRL86iTGT2Nx2QmtunKKg5xejcfeq9ebucXCDGRaIDu7NVcrgsxUcbNxSWSR/u7vJm/vPNeD1kHOby6C7ZXuTensdzx9u6PPTH5cvTw/r90N9U4P0jaA+mdbgHa1liQwVzgvav8nd4sjVWaFuIvlqBX3MXyURPdsoXpBYG/7Pb/C0IZJEhBK1618c2QsR+x061nR2rP3KLUjwCpVUhbaj1KAcEeNVBRY5aT51NexdRZ3ZdQr1hnRi6KoriPXVdp5SZ4m9ueTIi9DGqOJrzOrwYFht4R16DtWt0hu32P8DRBCBaZAXAAA="
+  }
+}

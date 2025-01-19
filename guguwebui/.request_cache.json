@@ -1,0 +1,120 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"a07b941ee679a4cea51c55d0d9b01d4147d04408d304ec8a0c98e025e5933829\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIALdXMWcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "205869628": {
+      "meta": {
+        "schema_version": 4,
+        "id": "guguwebui",
+        "name": "GUGU WebUI",
+        "version": "1.0.0",
+        "link": "https://github.com/LoosePrince/PF-MCDR-WebUI",
+        "authors": [
+          "LoosePrince",
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "argon2-cffi",
+          "fastapi",
+          "javaproperties",
+          "mcdreforged>=2.3.0",
+          "passlib",
+          "pydantic",
+          "ruamel.yaml",
+          "starlette[full]",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Config manerager using webui interface.",
+          "zh_cn": "使用webui来管理所有插件参数设置"
+        }
+      },
+      "size": 115078,
+      "hash_md5": "0a7b71b20008f83cf6315101235839a3",
+      "hash_sha256": "35d6c7cda2f33661fd57a253e6068ee8f4a1f8f771fb60d78108bff07d9a5061",
+      "ttl": 100
+    },
+    "221380060": {
+      "meta": {
+        "schema_version": 4,
+        "id": "guguwebui",
+        "name": "GUGU WebUI",
+        "version": "1.1.0",
+        "link": "https://github.com/LoosePrince/PF-MCDR-WebUI",
+        "authors": [
+          "LoosePrince",
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "argon2-cffi",
+          "fastapi",
+          "javaproperties",
+          "mcdreforged>=2.3.0",
+          "passlib",
+          "pydantic",
+          "ruamel.yaml",
+          "starlette[full]",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Config manerager using webui interface.",
+          "zh_cn": "使用webui来管理所有插件参数设置"
+        }
+      },
+      "size": 91264,
+      "hash_md5": "4b553afd92bc4b60015f4f66e8e2bc0c",
+      "hash_sha256": "717560301736f071648547f56521b9e87c8ab8533c7eb2300aae7d44ba76aec3",
+      "ttl": 100
+    },
+    "221576361": {
+      "meta": {
+        "schema_version": 4,
+        "id": "guguwebui",
+        "name": "GUGU WebUI",
+        "version": "1.2.0",
+        "link": "https://github.com/LoosePrince/PF-MCDR-WebUI",
+        "authors": [
+          "LoosePrince",
+          "XueK__"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "argon2-cffi",
+          "fastapi",
+          "javaproperties",
+          "mcdreforged>=2.3.0",
+          "passlib",
+          "pydantic",
+          "ruamel.yaml",
+          "starlette[full]",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Config manerager using webui interface.",
+          "zh_cn": "使用webui来管理所有插件参数设置"
+        }
+      },
+      "size": 126131,
+      "hash_md5": "62c0171bc09f21d8837904206ccfe80a",
+      "hash_sha256": "9112b192121ef2d9c5a2f093da6cf499ddb3d1ce935eac98170e50d48ccf4a10",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"5b5b996a5b867ed5a109e933b766b3cf45534178b7590e8dcece10e336394c8e\"",
+    "data": "H4sIAMD9jGcC/62YbW/bNhCA/4rhr4stO3HixEDRYQuWDUjaLHBQLO0gUNJZYk2RKknZSwT/9/FNb86WxJG++OXIe3g6HY93LIY4Gi4G5/OLk9lkOp0cDYaUReAb6fDOX8eXnz9dpT+W8VAPoRS0/Pa30c2vl3ejLxDc/6EHVjkhfjl6zZiAW45pCN6zmRnHGyT1vBUiApSEbSlw9b8YEhZjukfQOsaY6WQ+v5jNz0/bJt4bE39Jn+7++lPPRYqOuJ9zokcTKTOx8DwrFeMYyyQPcgE8ZFQCleOQpV7uVfCPmw8zjYm5A9lVtGgfmWGHswzFFN6e4YlMyb4pDZ292StGCNsqjH/gUl6lWWMwjd+JUZqFx2QCyotqys64Awt5uFlGqzBfyo8GJJRPOUQHo5yeMkxHy67wOGTMEvNAhBxnEjN6uIktbY1jPEYUP6H34ZS2oWjrDtc2WlodNio0D9e3aoVn9lj4uLOWhIA3yuPvZO7pa6R8zMw+v1eTzcZQ3/4Gw9YvR7I8IDg0bwdL8FGUmn1tdvzuoH3xPIFEUL0wm4oGevxbPj87n9X5iPF1I8W8/NDG7S8vqnmv+e4VjGcYGraGx64sjSj0Z7mvQrV1UcA4kox3hbdYReuvWUsCSruuYRgmRTLW2bOGYQ4KIXJ4W6S/xjQoUW0pmqeBy4W94OvdhITAMQXoSqw4hVel7YAjGiad0SWmcL9sFKC4cxAgmy0DwoKuLDXVM5zCEwlyh5b0e7BSkzWmDeaw6gOsMTVY8u5xYMzlJg5KrDo8pYqJruQS4xUlmCAa5yjuTK44ZYkQoyfgPdjrQDZDUslxkPeSIGtUowQJejC5Ju3XNv2Q7blp3JGmWHb3hKG0t0Y/aB3Hz/Ba0EP2LTGtvG4PDzfUz+nxn+u4zqOPINQYr/gpQzIp3ZMhDt29oyleESBVro3H4yIBZMuMFHj33W4h5uzjYaKKy468osSoCitF0jQHK2NupLoFwlDU1eKKU8VJP+VFKy4y1UN3xRpGi5piAkIy2v2tVaAWnzKJVzh8U7/02hItVvFR6ClHiJAjFY4Sh1jFuWpO3ckTAOl+7GiIehyUgmuWCKDuB2WJKTxXnUeQEfbYR+ZqkMyG54Ckas6Q1MzjyfFsNJ2MjufL6dliNlucHD+YBi2L2rNOR5PpaHqxnB4vZpPFdPJg408k/z9pcvFQ5nf3BOrnG9s2/YDmOBNJQ/nnWnXxqmpIVOS9p2Ws1t7Q93acCUshU9VJUzdbqUhEVCvbNvdJD08vzs/bFUzIcqodOlPiLZKqit4TlqWPhv++vLk2CyLh2wShpJLn4GQZZ98hlHvSOjm1xFu8xnvqpsKqu2KjjEWYq85B337UI7bdLc2cmjTCOSuv1ajKMnX2jhqKCocC0hKxDKh7mhaR4BCoAHPxpxpZExQZGZ2MJ82bxqtP94MroMARGdyaW4XBtVUcbNxUkUX/uGu6q9vrEvDyNnOLC6+5ZH2peHMZni2vyPeHL6dPD8v1h6G+tED6ckyfMWv16mvPYuFLSDPSvtTcQuDqIF+3ZWy1Uh3Djxzzlm8ky3CoHf/1b/VvgwUOMMHysX2HYi8OrNca3nSSMqpcPEWwQjmRvu3UNChF2FR8GfAUV6+6GLZuZY7sPIlaIp0SmuZybCO1HifEeWJnLgbSzLc7VbI10PLmlILcqmdovf5mzVzJd/8Cpcqq0o8WAAA="
+  }
+}

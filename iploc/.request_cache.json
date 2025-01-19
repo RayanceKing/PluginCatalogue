@@ -1,0 +1,235 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"33707bb558cb1e548c020b9a4d7343dd889a2dfa469e7ba25a53407a6593ab00\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAKSq+2YC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "198913224": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game.",
+          "zh_cn": "在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 2478,
+      "hash_md5": "bb5636dad1264eba7fa975dca672dd2f",
+      "hash_sha256": "c60e6ebf71e3a0fbbf1bfcf22631b023a875f8ab383b116697bc6717823aad2e",
+      "ttl": 100
+    },
+    "204203061": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game.",
+          "zh_cn": "在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 15427,
+      "hash_md5": "58a96b0502f89a7a317df446ed07a97a",
+      "hash_sha256": "29bed9812b7bfd9094afb115f400d0c5f3ad56874d584ef2e3d39aca4d0a4cca",
+      "ttl": 100
+    },
+    "204278617": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17821,
+      "hash_md5": "17002ea98ace8df98348ece122139722",
+      "hash_sha256": "24f78d76f507b6feedd0dab97822627cbea29af81011b2de6a10f9be89a04962",
+      "ttl": 100
+    },
+    "205285164": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.1",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17631,
+      "hash_md5": "0aa136552f8e98ab872d80bf34b9d431",
+      "hash_sha256": "9499128254233963c1ebe7e70684acd74a30d1d4bbaf631328eeec8504bf3f2a",
+      "ttl": 100
+    },
+    "207102726": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.2",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17587,
+      "hash_md5": "68ba2a2aea134d78993f4ae36d7c0423",
+      "hash_sha256": "3cbb7252fb6d82d81fb21570f757f649f42e7647a077339f6004db4c9dbbecc3",
+      "ttl": 100
+    },
+    "207345365": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.3",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17677,
+      "hash_md5": "9c0703f1041df9548f42908f60eeb6fe",
+      "hash_sha256": "2e8b4bda6b75391c81a32a58bfd599b4ddd736c60e39ac9fb66dd421cb6c9aea",
+      "ttl": 100
+    },
+    "211761766": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.4",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17605,
+      "hash_md5": "8ed8c6a38d9afffb946b79c5d323d008",
+      "hash_sha256": "8eef375b6113c288a54702fb27d5ada7e4e381724995e9bc933342e610b82615",
+      "ttl": 100
+    },
+    "215512577": {
+      "meta": {
+        "schema_version": 4,
+        "id": "iploc",
+        "name": "IPLocation",
+        "version": "0.1.6",
+        "link": "https://github.com/Mooling0602/IPLocation-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "player_ip_logger": ">=1.2.0"
+        },
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "Show the IP location when player joined the game with multiple APIs.",
+          "zh_cn": "使用多种API，在玩家上线时显示其IP归属地。"
+        }
+      },
+      "size": 17735,
+      "hash_md5": "0af30586820d1148d54b2a987a2da12c",
+      "hash_sha256": "22aa4724c47b40e3b03c6bfe26e9ac825202bdf822fd7f911893a70cfd9cd3b4",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"f47aeaeac5fa5771a8775d4512ab7cf1205e23d2a7f25c4cf0b724b8e88d0d40\"",
+    "data": "H4sIAC9aamcC/62YbW/bNhCA/4rgr0ssx5Hd1EDRdQmQFUi6oEhQIMMgUBItMaZIjaTsOYL/+46kZL0sa+KYXxKL5D08ne6Od6xGJBktvIv5LAg+BOfBiTdiPMGhGR19D1fp1R+3sx/lZTrSUyjHevzr3Q2PkSKcnd5eXn3XU8uS0rCZv+WcEpZO5pOp/8LaQpA1UnrlElGJYYRvGBbwXI0oTwkbMLSMUegs+PBxHkznF301H4yal99+/y36otcioCMRloLq2UypQi58347KcUpUVkalxCLmTGGmxjHP/dLfwz+vPwUak4oaZHfRQ0NkQWqcZQBT+gPFM5XToSodmcHqJaeUbwATHriVv5dsMTD1Tgw8VT5XGQYrwpKdMQeR6nC1jFRl/oEdDUiCTQVODkbVcqCY9pZd5QtccEssIxkLUmgvO1zFnrTGcZEiRp7R+3AgbShau8OljZQWx2twzcPlrVjlmxiLtzurSYzJGiz+TuZAXiPVtjCR/gCLTWDA/3BN8CZsZooyoiQ2X4coHKIkN3FtIn53UFy8lEISvP9kGvDF0xNeQUvIHiee4p7M+MYDB/a+3nm0lvY2GWYegmVoi4X3xAnDiVmUQuIa28ARq05e+rmlzLd6TVNNfM3kr4J8Q9G4Fd4eT9OQSv9tQjKGqEcRF0hxcTy+R6t6j2Y3hVF+/C6GYjIs5w4sbCjmpJGyxG8LldepBib3UcnKPKrTqaMN2pBEUpKUYXw8c0+q/H32jwRiceYA3oCq+pf1CJQ6cAhkE29EeXQ8DRb7hlT5MkP1CahCJ5pqtgb10QIv3aA1qEUr4cInjMrC+EQDhvNYgX8cz25AftWgKWJpiVIH7D2pqTxS9IyFE51rlM2fTAkSlY7SZwvrVDeRE7Vb1rBwcsW2h7IxSp4T5cIehtMPFldw7df/2UAPOMnODaiX+e0BU0+5OmFe3KlucNy4pAb51S8FUlljpAIJ7MJGmuNXEYLKcDweVxlGtizJsXCRAyzGnJEizqCSPZpYNSCoy3KkTC+yNCon0JxQjpLjtd6T9j7jqhzp+UgBjfvxYEPpcXNCsVScufh+e1RvB8YVWZL4TW3a65v0aNVnSViMTxClJ+CcisQE/B5E69MpwtTF0aQx8ErQfNR9GsXIxYHagCq/ru8TXFC+dZPTOiyTBgRGCnpDpDR1OpkGp5OPp+eT+7NgEcwW0/mj6Q+LZLjqbHo6De4ns0VwsQimj9YXZfY/i2bTRXD22GT/+h3g55u7Rv2S5siTWUf811Z48QbhmIIXvq9r3e+/Zu9vezOe4wKqmeY+SpJn/TuY9oubmJdM23ACwxukoNweDDZVkebcbVVmD+wMydBmCBhXosT1WCH4E47VYLTNT73hDVmRgbgpv9qm2ggTGZfQZugbl3bG9spdRXMiBG+u8hgkmTaJJx1BwKGI9oZ4gVn9Nv1XJzFmEpvLRuiAjR8U9PR8POnecF5/e/CuMcMCUe/O3GR4N1bQW9dLZZH8U18NXt/dNICfR1e9ufS7W7YXmbdX8fz+mj49/pg9P96vPo30RQnSF3L6oFmBY7SWJTJUOC9o/yJ1g6O6NAp1D8eXS2gr/i6J6NlG8YLE2vB//gVPayJJRChR2/69jb1zsFbrWHPgV/VjgpeopCq0TZ0G5YgYryqwyMn+U1ej3k3QiV2nUG9I54GuuoJYX23nKa0tsTP3CXkR2tBUfIVZEx0Mqw28Q+/zd4vpZvxs9y8kXBz9BxcAAA=="
+  }
+}

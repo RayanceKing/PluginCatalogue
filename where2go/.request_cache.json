@@ -1,0 +1,237 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"5a756f6d12446f0d6009e8eeb3537c45922eb2dd5819de3bed6c9cf30142b445\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGQx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "195368525": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.5",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23729,
+      "hash_md5": "cf8728a3c9b055a478f434867e31e667",
+      "hash_sha256": "95c5a9dcfec9a6ebe1ad662f8fa3b5abea147d97dcc510d10f04163e4afd641a",
+      "ttl": 100
+    },
+    "192747716": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.4",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23721,
+      "hash_md5": "605940b1d44a003430a1c00047a58d1c",
+      "hash_sha256": "c8b0977a48541717eb9549f958d71842441d23d7890aa21bf898d14639790ddf",
+      "ttl": 100
+    },
+    "189565215": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.3",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23719,
+      "hash_md5": "be4dca5c60efa72362631e8f1a932ad0",
+      "hash_sha256": "d862cf895ed1f4b94a08aa6a5f84dd89dd27d5ec7b087e60ce3108fc9a87ae45",
+      "ttl": 100
+    },
+    "183644392": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.2",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23725,
+      "hash_md5": "f9ed30c8214f56040c8962812735c518",
+      "hash_sha256": "0e64141782b7b8208fa94b1a0a08ea7b507ce965a2cc1e1277b44fad61c3854c",
+      "ttl": 100
+    },
+    "182694905": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.1",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23771,
+      "hash_md5": "f0a95657f1de61f2584986da1c58068a",
+      "hash_sha256": "b0c28598916fe7b0290af2fbeb7887713c9b2cef821fb8ccf20d99cfc0b9af9b",
+      "ttl": 100
+    },
+    "182329147": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.2.0",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 23779,
+      "hash_md5": "026214eb9d70b49d07e0a64eebcef91f",
+      "hash_sha256": "69aeee2b75778359d34850529fe9531592d2c1cc8f0c5fd59ac58173f2b6899c",
+      "ttl": 100
+    },
+    "181514345": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.1.2",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 22718,
+      "hash_md5": "956037c3dfaf3fe41eb93ae2a73fe2e9",
+      "hash_sha256": "1a29eb53e29c630ec7bfcc9ec31a80c2c066b51caa0e6bdb7f6fd263c6ff9049",
+      "ttl": 100
+    },
+    "181291878": {
+      "meta": {
+        "schema_version": 4,
+        "id": "where2go",
+        "name": "Where2go",
+        "version": "0.1.1",
+        "link": "https://github.com/LazyAlienServer/Where2go",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 22721,
+      "hash_md5": "b5a9679938c28cfe900dfd02e1e8ab61",
+      "hash_sha256": "0216e4b50c00fc75a0d64af5a4014c1a2808b0d9c17f716e82a1ec450cb02646",
+      "ttl": 100
+    },
+    "181276905": {
+      "meta": {
+        "schema_version": 4,
+        "id": "to_where",
+        "name": "ToWhere",
+        "version": "0.1.0",
+        "link": "https://github.com/LazyAlienServer/ToWhere",
+        "authors": [
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An advanced 'location' plugin including sharing waypoints, search player pos, etc.",
+          "zh_cn": "一个先进的位置插件，包含共享坐标点、查询玩家位置等功能"
+        }
+      },
+      "size": 1157,
+      "hash_md5": "19d75d707c1e518047a8d910175b8900",
+      "hash_sha256": "1692eec544fe38c9c356c7d33af7f66db18c6d35dfd4f34211f673ebfc2eb83f",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"50d4f2e21599d663c2809bc0f90b856d51bfbd4cdc97da51ef9625ed5e609783\"",
+    "data": "H4sIAMH9jGcC/+2YX2/bNhDAv0rg1yWRLP83UHTDCuSlXYsuQ4HMg0BJJ4k1JWokZc8R/N13pCRbcrMkM/2YF9k68n48kccj76oBjQbLq/nIm4xGQ8+7vhrkPALfSAdf/XXy4fOnh8UuSQa6iWSg5d9SEOAlXMvikjG/bfhIHne/MAr57yA2IJxux0LQDVG6W0yYBJTwbQ4C36sB4wnNnwBoPWPKcOLNhu5oMekb+NkY+OtXLm+2ui/BEYjwS8F0a6pUIZeOU0vlbUJVWgalBBHyXEGubkOeOaVzgL/fvBtrTCIaUD2KFp0iC9rgagYypfOE8anK2Kk5Hb0nNGLOGN8izj9jSOegfUTRPLFAoXblcIXr6OtuezM9VKrzzDOalfnBuTUwifMsIDoL1+iigdqT9pUjoOA1tQxkKGihKM/PM7VH0EguEpLTR3I+EgmGpK08j2A0NQI26L7nMWrVyjH7Mdzta4tCoBtcBQvuCUNj1a4wYeFzZ+rMZkKAv6Gw9dseRRkwGpqVowp8EmUmHphIsf/f+6gXdyI4rKPWXpVjcF399MiqnHiLeFXO3TjC//FISxbebFXOpvMx9onHKJ/FU1iV01Hkaa14uirj2A2x58id4HPsBfgczoa6lej/swnyp3NXc9xgsSpHrout0xlg/3kAyJmNCMonQTDtjzILxouuVfU2FutO1Hx+bYyHPDsfGvfSCj9PcQxCs9aws0RpQqWfbTwIMeyQgAuiuLBk91BV79UMpYBklkMYhAn0nNvOqkGYE0/KEl63FV9AGpI8bPm8zIImhl+CftzoREqa5ACWwAOmcg6HTSBIHqa25JZSNf/q9SeJ7fKTOqIHjAeWKOzpGEzlyJQ056zy7W3UYE3pcwXEF+BqypGrhLUHGGOF8YCWioe8Qm+wBLcUp2q5jORJSRJb8AHTXmYS8gjC3tqGU4fEXAkalJeIiEdS55oU2Bt8BJ1evy4CLtqrA6pkVFlPg4H0d8RFyNp/f6BrgX20bSm9MF4fFU3TRc6KJ4dp8qULeJ+mONVPBVFpOzcFEWA9NRriVAHB6+Lt7W2VAqmvExkI6y1eM8w5J8IU77h2uKql4DUqI8qkLbExNsI8hnESWdp7wBw85CLXiJ5HFJj2W1INogfNKAOpeG69YAdOD59zRWMaviqDe2GEHqp6L2kewjVh7Br9UNGQon9j5tycMwEw60NGM/BjSAZNwsaAWB+KLaVymst3BAXjuwsEqw7I7HIBRGFqSJRGeq43vnFnN97o3p0v3enS9R5MWlhEP/Ra3Hiz++F0OZwsJ/OH2vNk+l+dpsvx5KEN6M0H4N/XJYv688zhJdOO7s9HzeVLmiFDnzsjTT2MvMnPTHJTnkGBtxBUzXFbmTz6Ub8N56P+vSTkZa6nTpf6tkThpfhE2F5otBVfdiqtz92USL8OAyhXooRGVgj+HUJ1Ij1GoJ54S9f0RN3cnI7JrVGmMiwxE9B1l2NLnba2hg5NtBCCt8W+5qub0Bp1FBFHAtYT8QLy5mt6REZDyCWYkiSmpMYDCnYzunW71c+73/64uoMcBGFXX0zd4upjrXi1abrKIvqnKR7effnYAp7fUc3g0ukOeSx1fvoQTu/v2PeHb5PHh/v1u4EuixBdotPnyBqjzXFmqfQVZAXrl1u3EDSXHF+nWTyOMQv4u6SiNzeKFzTUE//nX/i2oZIGlFG161dp6gpAPWud2WwkrV81HhVBTEqm/Dr10qCMUONVBYiMHpa6GvTqPtd1P0V6Ir39u+YKWvvqsZ2xZib2JsfPCr/el4qvIW/ruehhimfafdEGRY3p1f6kzPdWm36rTb/Vpt9q08/XpnNQWwyHvZOkm1i3cnf/LwGe1WVuGwAA"
+  }
+}

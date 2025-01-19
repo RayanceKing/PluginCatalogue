@@ -1,0 +1,117 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"fd8b3e6c4c086579ea6e604e5e59136a4ca02e93842e9f941121adb35274d768\"",
+      "data": "H4sIABpqjGcC/+2Z72/aOBjH/xWLvbhNV5o4vyCRTtMq2mnT0ao32u26nZhJ3JDVJDnbgVHU//1sJ6GMQrejoa/8BhLz+Ps4T+yv/RGfF62CklYAWmPOcxYYBsqTwzjh42J0GGYTg+I8Y8bg3YeLNMlSY5BMcHR+1BftBCOGmeF7vmWbHbt1AFqIMczZsCFFo5STwkVOMhStC5et7Cnii9cpmuADgkaY3MlMYz4h63lW9B9R5ig2pvDQPjSlThIJhTqZLE3BxxkVbYsWyeIklfoniBCcto8oRny87GR1/U63a3riPs0iPFSNrX7v3Lv8dErCb++cs0HonPXeWKrkU8QRfVBy1VpXpmCYhlnKccrVQxRGneP19A9HqsS00imTqZI/+hKlJDMePMBPqvcg/jojJJsJqeH/Tmcs+94LJWm8s5DouzAyPsaimCJITYY4YXyXoal+C/UlKqqkmKguxdEOYlVPMbhZKsa1UHO81CxGLKRJzsWE3GWYP/SXghmNUZrcol0FRX+lo1bhDv1VPymAp2Ku7qJQdlwYOU2mKJzflaMJcTIVtd9ZdU1BivJ5jqXKhQhXy0V8D6cJng3rX/JiRJJQvaeE4yGKJmrVXyPC8N2Pi/uv4+HNrHd23PnoHzHn5HthH6kcKB5Ke5Ih984ipkOM+VCMdZLwhI3lrxPEeDmOOl5eRxRd8zqluM8prtxqpTGUjygeDcnIlmVadtu025Y3MJ3AcgPTvZJS6mHYeFtcJzD9q/sdQER8fvLGUkoZ0DT9ju90u0uDXLasFfHNahHfHp3249WC1AnaZSUPJ2GkCqasXwSkBSHLnQZrp9ZOrZ1aO7Vy6mpFLuNRnot4VXsjCznmbcZF+kk1e7gKqowkKmVvZRvsWp4vfVnMD3WeDbMilXZqOTb8uRW71lV5Fo4ejXJU1IhmM/mgy1w7nWnr3tXB1thoonf/lLvSSLyJHc/+Ve+V8/Ntkj9Br+q9ojfKorkUaoM3kXgrYITCmyIHrAhDzBgwxNtOSEExiDDHoXy1B0Dsl3IWCb8BFHM6F5+5ekPqNsEMJNeAy5y1nBSp1hUKy8Uq95GmgOheVVY844gsp5CcP7/D6qItL0y1uRXxuLoeZxlF8+pGTOlrsRCi+jeMKK+uaRbe4PoGz7F8BPNOrIOnP4dpemIJwAZRsVLcDyr+KN48KlqrqFgl06ioDyD6AKIPIL+Iip/IBdmAitbzoKLVhrBtuQMIA9cPbP8RVBRxzgB6gd0J4L5Q0be6HUccse5NtWp4DBRPkg9/R9tA0dKgqH1a+7T26ecGRdN2N4GibftbOHHpr17geFs5cTWquydOtNY40doPJ1oNc6K1mRMlKCUx+Erxv0VC8TBLSZLiYU7QXEyqrwC8fOG++kK/pAC0wccxToHYigDPAKeF2DMHIguYJYSAEQY4RSMiNIXGHMxkrPQm/BsDpRxIVItQoFNMa9F3HFTJWSknxIVYOWmWMlUnIK2FswOgbG+WMLwyhDTjYJbRm1YTMOdB0/E7jt8czNWKe4G5NfHmYQ6uwFydTMOcPiToQ4I+JPwazPUyp7jcAHPwuWDOFCcEd2CKs4EV2M42mFuNc/f3v5/b9SzTg/cwVzc8BnO965T+uQ3moIY57dPap7VPPzPMdWzX2wRz0DbdnxmxMNgtNLcWtS+ag2s0B/dDc7BhmoObae44jeV2BliR5xmV/+S9fGG9aoSHHGHYjmmbzfFQrbgXHloTb56HzEO43DLrZJqH9D6r91m9z27joX4v9C4ml+zq48nt1eDcPuvFZr/Xn22Aospe9g1FsG1229AbmHbg+AH0tkHRSpwrdmO4JyhyLLdjW90VZ60a1ut4PD8j78no7eU4tC6PQvuURL3z+ekgvO1/i79vIyRRVE1I2rm1c2vnflZC8pzNf3fBrtN5zJVhJ4Bm7bYPCGktyt4TIQnTNDaaaLOEVG14jRFSpVcTkhjtf3cmBKcMNgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAGQx+GYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "100979488": {
+      "meta": {
+        "schema_version": 4,
+        "id": "timed_quick_backup_multi",
+        "name": "Timed QBM",
+        "version": "1.3.0",
+        "link": "https://github.com/TISUnion/TimedQBM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "quick_backup_multi": ">=1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
+          "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+        }
+      },
+      "size": 18269,
+      "hash_md5": "20a51501b53f303108e7700b39a3a065",
+      "hash_sha256": "0279e9f5f8e1e61b4e8eb6e430b4ad1f7ed577c3cbbe01a14c147ac238cb61ed",
+      "ttl": 100
+    },
+    "92874269": {
+      "meta": {
+        "schema_version": 4,
+        "id": "timed_quick_backup_multi",
+        "name": "Timed QBM",
+        "version": "1.2.0",
+        "link": "https://github.com/TISUnion/TimedQBM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "quick_backup_multi": ">=1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
+          "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+        }
+      },
+      "size": 18035,
+      "hash_md5": "941ffb67e5f76b116e9b5fdd8f180f88",
+      "hash_sha256": "86bb171fb441a278acafd03a70e3b0d6a03be412cbf5c8ea0ac5b00bdad9a897",
+      "ttl": 100
+    },
+    "58620619": {
+      "meta": {
+        "schema_version": 4,
+        "id": "timed_quick_backup_multi",
+        "name": "Timed QBM",
+        "version": "1.1.0",
+        "link": "https://github.com/TISUnion/TimedQBM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "quick_backup_multi": ">=1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
+          "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+        }
+      },
+      "size": 17356,
+      "hash_md5": "20176ef1b441fa8a5878db6b0fb2464e",
+      "hash_sha256": "2164d64cdb258d67e1a129474b343e6911ba3e7d71cad84003bc0b72f70b4ede",
+      "ttl": 100
+    },
+    "42573281": {
+      "meta": {
+        "schema_version": 4,
+        "id": "timed_quick_backup_multi",
+        "name": "Timed QBM",
+        "version": "1.0.1",
+        "link": "https://github.com/TISUnion/TimedQBM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "quick_backup_multi": ">=1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
+          "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+        }
+      },
+      "size": 16435,
+      "hash_md5": "23d86007e0133634b190c5ae16dc79a1",
+      "hash_sha256": "c0d9e3e08d15e2fc630d582339e259ffc61a5204170f1751d5232be562a77223",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"5aafa74439441ae5a9502732576c49e9323da16aa69d72bde7db0a40b2b117af\"",
+    "data": "H4sIAL2wR2cC/+1YbW/bNhD+K4K/Lrb8GjcGgi5FNqNDnZfOxYoMg0BJtMSaIjWSsmsL/u87Ui+W3KaNpW9DviTWic/D0/HueHdph/idmTUa9S+n08mgf2F1GPexY6Sdxe1v23v6B/XmV3v0+ePGY+v9Yn8zvNt7g8Xy5rqjl6MI67VLEmH/8d1Cy1YJpU754v2fnxjhzK6uiAXZIKXfrxCVGCR8y7CA57RDeUBYFakBRqHxZDwc999cfaPl7n59tXsa/p6gz3Hoz+nG/fI4uLt931/cBhMNR7AbEk4iqEaESsVyZtuZVPYCosLETSQWHmcKM9XzeGQndrHf2831WLMEIufJNtaiU8aY5GwZBVBKu/odoYroqRoVQHXpilPKt0DgnLOJXcKOHIQFTTgAltpchRgMB+8PxgREqjMVMpDU/APDGRYJRhTYP48nB4FK2lUOqS1wzDO6xJWeILGCZWcqV4NqLi4CxMgeNeACqKHQep0JNRCNxRtwvzPBGSa1TVB5u0Omg4fJBkzchPAErPnULjbRfF8xj/F/QDobgrdOsSJOXEo8cyxEYQf5kYlmE+eHl0dALV34uDwkDbuxHhPirbvvkLdO4u4ioYpY+CtEroQV1ooLCyWKR6ClhyjdWUqQIMDCAjoLKSuAj2MWgVAXG0SzOBHrSjL6sbXMYX1fUc3zM2M/A7cNVpOs8a4ph4am+m8RaR5EMnK5QIqLpqQ1jrT2aPZQGEVNuQ3WJEbOG1vOYM0tIWWCX+byz3EZClnGFEsiN099rWiPkYSkJAHDuClTiU/tMiu7AjEvbExZwNP8V3aqKGh8qChLhC7lblMOWGIbfGrLEOV3j3JaaKUZNbxOKPCqDaGGHwmVaH6uRj1hzrWggxtPwRk3ZSzgdloQUsSCBAWNGUt8cYkHaI9FC/1ygixTMUjTbtIqUR0pKnWB20LFI8NpodGOMS4uUFgbEdX8iw267tLtKLUffkOrBS2yXwGv5dMsWeev2mXr7/LntXwbZ9JwO/0lRioszBAjgZtbQaPt1EVQCvV6vTTEKLumIyyaR2UGNneL8EKobRrypAUcKhGonUyFvTLq+VByU478phqW+PLc213PtXOOodtsSmewNbaIUCwVZ81PoySo8TKuyArK0Zf0Fc9R1zjSt5IwD19AgXsBbgWlLgE/hZ4tz/Qups3TvAaD+tDC590Exaj5RVTAUzuvSn0cU75rk1EqDCYwBUYKGhakNNewPxx0+4Pu4M1yMJqNprPJ5Mk0K7FfXzXu9qfd4XDZH8/Go9nk6inzJxlWF426/VF3eKkXDaezfrZI59lcc/j5kxZGf5C5PmRYAf16hMyehXgUPOmcdqnca8PO7bJCHuEYbnfAMIgL08Ht9dN4Wr/uPZ4wbZ3BJci3SEHteCotKgW9/8NOhfn0A0kni2CQK5HgXBYL/gV76kR6zBo18ZasyQnclCTH9s2AifQSKU1bf3yT9WeFphMT70LwYjKUf3aeB/0KEOiQS2siHmOWf03JqAdo0P1CI4rNLAs6MXPaMe2Oev3qvGx+98maY4YFotaDaZmtDxnQ2uRLZex/zUdN84cPBcGP4yXfXNrVLauzMu9yOadfnv6a7J+W6+uO7siRHvbopL+G7HG0LJGOwlFM63O6LXbzAsPRfQhfraCE/jchomYbxWPiacP//Q88bYgkLqFE7eoDgqzjzc6hYs3cjoVjFS7l4xWCTt/JehTNFCEJLbyJWSwiUp522qlNHfQpI+j2UU2kw7yqsSCZux7fU5ob42Ca3Ch2smhUfI1ZMQAEJ1M80h4MOihitE8PJ4Ok17nm61zzda75/55rMqy2kM9ql0u1AS3kw8N/fxmKXnUZAAA="
+  }
+}

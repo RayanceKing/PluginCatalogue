@@ -1,0 +1,102 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"8952431938e03e2ff20136a7402203b9d414d3678281dada552b60a3e3ca9026\"",
+      "data": "H4sIADWAjGcC/+2ZcWvbOBjGv0oJ7L8llmTZlgJj3MgODi4t1xXurqUYyVYcr45tbCWlDf3uJ8lO6mRJOub4GMNQKJVfPa8s2c/jH71bD5ZFMhhfDOZS5uXYslgej6JYzpd8FGQLqxB5Vlr/XLM4dV1rEYTF8DnOOQselrm6mAhWitKC1MHYpa4zeH8xYGUpZOmfVdeqRLX8Mk8yFu7LV6Nl+xbrjylbiPcJ4yJ50f3mcpHsd2t0eUtfsshawREYIarV4lDpbHvq3VrKeVaowfUgyaI41W0q+SELZJyl5R3P5P12LoaEEkSQ+jvNQuGbwcF0MnX/WlBwOfmMr26ip6vJHx/MWayYZMU3Z2FGN5u1LEURZKkUqTR3FKcWdGyXfFx9wFojKmqVqpU5g5NnqwVLa/cm3jmf1G28cybfsaUsz/en61mzLEmyRyXtt2hvbVVeJeM0OoOkUllbmZwLtd2q3Dw7UVzKdss1CmvzS+2/ES3VWRQibCVba6gFP6ZqrWvzslTqS14GRZybCe16NJW0dFZELI2fWXtppWQUzSveSskoaCmxUs9/O61KYm3lRbxiwdNLtcJAxCt1WmfQ39PS8vIpF1rvUybNe6nm+6tYPPqbC/mSJ3FgDjaWwmfhwljMjCWleNn1kOvP/sPj5OrytqR2if/MH2JoWrDI15aoSxpGph6gSEhfrXoRy7ic68vQ8TBkNnMF48h1bCbEbIYopTwAHCFiY5s4ngB6/kbyujLKi4Z0WLCZ3CxS/Z0XorbTxmBQCCbVXjBdOUAAOUMAh5DcAGeMydj2brWUuf1yfqyOjoFz+5pZquLuPIFY6VkIQRsrvwZb+96O7O39b829v5z+e72zSarDsGoxrPdppDvrEhNUW182KSj6OOnjpI+TPk7+/zipX/xtvXr3VL05IkuZWP28SXOtNquwUnsWxh1t81EcqufIfOUH2TLVxu295fjKyd3bygLD76jiRfaob27b6Mc/8DcSm69865hZv9xXsclZkrSho1qiSRXmYjvVWqKpyrPwyVi0OtlzcaJNXOLa4OycWOt2yYm7LbrjRNLgxLpnz4l9sPfB3gf7z8iJX79e/n2YE8kxTgw49DxOuQsC7uIQOLMQk5ntOV5oUw4IBYFAzD3BiaQlJwJ6A8EY0LGDT3JiVad+EOqUEyGFwLOB/cqJm5GTnDgBfnqSE0nPiX2c9HHSx8kvxonQhvQQJ9I3HF87uX2CE/eruuNEYh0z6244kXTCiaQjTiQUI9cmZ+fEjW6HnLjXojtO9F45cdOz58Q+2Ptg74P9Z+TEL4tiepgTvWOcKBAGDIWU0BByFBLMXQdTyGfKr1yGFSHOAmVf/Dgnej/OiXgI0RC4N9AZA29so2Oc2KwjY9jt/xMhdDybEtLgxHrkFCdO09+fH05yotdzYh8nfZz0cfKrcSLywCFOhPgty99a+TegeLCqO1D0rGNu3Q0oep2AorcLivf/AbKI2ON5KgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAKUxVGcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "211573988": {
+      "meta": {
+        "schema_version": 4,
+        "id": "zip_backup",
+        "name": "Zip Backup",
+        "version": "1.0.27",
+        "link": "https://github.com/XRain66/mcdr-zipbackup",
+        "authors": [
+          "XRain666"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0",
+          "apscheduler>=3.6.3",
+          "tqdm>=4.65.0"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 21270,
+      "hash_md5": "b19101f1b3dd93521e6dc819c13eb2c0",
+      "hash_sha256": "23a72b2551c06bae5803cf69b1ab563e2926c6ed605a4d2527972fc668c6578d",
+      "ttl": 100
+    },
+    "219107303": {
+      "meta": {
+        "schema_version": 4,
+        "id": "zip_backup",
+        "name": "Zip Backup",
+        "version": "1.0.28",
+        "link": "https://github.com/XRain66/mcdr-zipbackup",
+        "authors": [
+          "XRain666"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0",
+          "apscheduler>=3.6.3",
+          "tqdm>=4.65.0"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 21319,
+      "hash_md5": "7f4ab08a82965c454f07920e4f81ec59",
+      "hash_sha256": "a1bfd4ed7ea6a89842962a85b34d180d94673713c158664d0eb05526a82969b7",
+      "ttl": 100
+    },
+    "221348980": {
+      "meta": {
+        "schema_version": 4,
+        "id": "zip_backup",
+        "name": "Zip Backup",
+        "version": "1.0.29",
+        "link": "https://github.com/XRain66/mcdr-zipbackup",
+        "authors": [
+          "XRain666"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0",
+          "apscheduler>=3.6.3",
+          "tqdm>=4.65.0"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 22365,
+      "hash_md5": "9ade3bf845c83c99aaf962356afbce8b",
+      "hash_sha256": "48d9fd17af632b27bfc6fc5260b1304ae13bcb338193c59e59e408fb365fe1fe",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"c5f47038096c6bed415d17ecf0ad0c5d929f924bb3bacce539af03bea165d8be\"",
+    "data": "H4sIAMZPi2cC/62YbW/iOBCA/wri6xXCS6GAtNp7qdQvu3tV1epOXE+RkzjEi2PnbAeWRvz3GzvOG7vHlbpSVRLb83gynrFnXPRJ1F/1FsvldD6Hv6ten/EI+6a1/+BvN7e/f1nL5XTT110oxbo9DSMxeCFZgMJtnumeOKfUr7r/fECEzefe98MyQXZI6UExohJDC98zLOC96FO+IawlrscbNcaj5XK+mEwnXeWejHK/8ukN+kWPRUBGws8F1b2JUplceV7ZKocbopI8yCUWIWcKMzUMeerlXg3/uPtwrTEbYUHlLLrpFJkRiysZwJReS+lEpfRUjdb41siYU8r3IO5fMIVXSzUIwjZvQIBU4XGVYLAadB/N5xOpLlPHSBTmB2xmIBLsJ3B0EcbKgELaI46FJ3DGS1oeyFCQTBHOLlOtI6lRXGwQIy/ochRIGoLW6jJJI6FF8Q7c7jLZUqTwTNyEh2OpQYjJDqz7Bt6JrMapQ2aC9gkGGmeHX39H8N6verI8oCQ0K0EU9lGUmjg1EXx8tb//YDeIcL06Wvbzb7cPz/ksWKLnfD6L5/A8XQTP+U08WcLzcnTznF/jOILeaTQxzzaKxLa1o5y3h1mNMzpp2P/Z9BzDMwBN2uKDE0jLF/p/FVUhBC0KuECKCydyB1R0Xs1ECqPUaQIDMFsh527WNABzEkiZ49e5/Fmg4cg6sFieBnbnc2c3QYWkJBuGsROuhhRevT0HArEwceNWjMI+lWuONm5Ljsr9MaA8cALBOM9ACk8myJ5JynfVT2M1o0sVOHamakZDVcJx1Y2iwqx6xYSjUYEHOGErhldUVIrYJkcbN2wNqY79DXrBwlVTSyk3PaYECXL3Pa/htJKKwFXZBnOaqrwDtjwajRXSlChHAxhE1//fgav99Tu2bnDdTStGZ5MujwHb9Q7nwA8nsRWCs79phlf8lCGVVFbJkMCORtEIrwgQJF/D4bBIMCrTgxQLx2AuCeb8EmECeaILrKgYkBClSJmEPjaKRpDhU44iJ11rSO0V75AWdLwgg5LWiWkAHWRKKJaKM8dlqikdOOOKxCR8VW1zlt8BFR8lYSG+QpRegecpEhLwZ6gc7RkSYOp4gGgCfAhKsS1vKEaOh13FKDybOkc4o/zgvCW1MCaeBUYKiimkNHAymlwPxpPBaP44mq1m49Xsem0KqizqjpoNRuPBeKFHXS9Ws/m69DaZ/Neg5Wo0W1dbtlUfHl9TZulPMweTTFqSPzdyq/NyIQU/u7i4q2fdsTcVhglPcQZZBQgyCCJTeb7ot8Wim2aEPGfaYlNo3iMFWe1JY5WfaBXuDyopj9MESb+MeGhXIse2LRP8Kw7VSWuz1XSa92RLTsRNItRUokaYyDCHRF5fQDQ9ZZVZKToyW4MQvLq9sh9td9CoJQg4FNBOE88ws1/TIULNjpnE5m4Nqkiz9BkdTIej9lXe3Zen3h1mWCDauzeFfu9TKdjb2aEyi77Z27C7+08V4HwY2cml156yubv7fBvOH+/o1/Ufs5f14/ZDX98jIH0npY+LLWwvjWWJ9BVOM9q9N9zjwGYvvq6SeBxDMv9PTkTHNopnJNSG/+tveNsRSQJCiTp0rzXKkr20WsuatqXyK+tREY5RTpVf1k7mNhRJVd6dZFikpF7sot+5KtGLDA6vUKdJx31bYUFKb236KbW2OJrSPM38MigV32JWXVEyrPbwFR0HaKe4Vfv4+C8uMrWc8hUAAA=="
+  }
+}
